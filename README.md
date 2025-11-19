@@ -1,4 +1,5 @@
- Machince-Learning-credit-risk-using-SHAP-LIME# credict_risk_prediction_shap_ML
+ Machince-Learning-credit-risk-using-SHAP-LIME
+
 Interpretable Credit Risk Modeling using XGBoost, SHAP, and LIME
 
 This project builds an interpretable credit-default prediction model using Gradient Boosting Machines (XGBoost) along with SHAP and LIME to provide global and local explanations suitable for regulated financial environments.
